@@ -8,7 +8,7 @@ Some of my own and default configuration for making keyboard shortcuts easy to n
 | cmd+'(Mac) OR ctrl+'(PC)      | Toggle terminal       |
 | cmd+,(Mac) OR ctrl+,(PC)      | Focus terminal       |
 | cmd+1(Mac) OR ctrl+1(PC)      | Focus first editor group       |
-| ](Mac) OR ](PC)      | Terminal split      |
-| [(Mac) OR [(PC)      | Terminal kill      |
+| shift+cmd+;(Mac) OR shift+ctrl+;(PC)      | Terminal split      |
+| cmd+k(Mac) OR ctrl+k(PC)      | Terminal kill      |
 | cmd+l(Mac) OR ctrl+l(PC)      | Switch terminal       |
 | shift+cmd+n(Mac) OR shift+ctrl+n(PC)      | New window      |
