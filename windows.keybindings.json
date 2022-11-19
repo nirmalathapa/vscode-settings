@@ -1,0 +1,40 @@
+[
+  {
+    "key": "ctrl+b",
+    "command": "-workbench.action.toggleSidebarVisibility"
+  },
+  {
+    "key": "win+ctrl+b",
+    "command": "workbench.action.toggleActivityBarVisibility"
+  },
+  {
+    "key": "ctrl+'",
+    "command": "workbench.action.terminal.toggleTerminal",
+    "when": "terminal.active"
+  },
+  {
+    "key": "ctrl+,",
+    "command": "workbench.action.terminal.focus"
+  },
+  {
+    "key": "ctrl+1",
+    "command": "-workbench.action.focusFirstEditorGroup"
+  },
+  {
+    "key": "shift+ctrl+;",
+    "command": "workbench.action.terminal.split",
+    "when": "terminalFocus && terminalProcessSupported || terminalFocus && terminalWebExtensionContributedProfile"
+  },
+  {
+    "key": "ctrl+k",
+    "command": "workbench.action.terminal.kill"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "workbench.action.terminal.switchTerminal"
+  },
+  {
+    "key": "shift+ctrl+n",
+    "command": "workbench.action.newWindow"
+  }
+]
